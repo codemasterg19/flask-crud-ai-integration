@@ -1,0 +1,20 @@
+[
+    {
+        "id": "f0bd8165-7894-48bd-831e-25e520ddac01",
+        "title": "Primera tarea",
+        "description": "Prueba desde Postman",
+        "priority": "alta",
+        "effort_hours": 4.5,
+        "status": "en progreso",
+        "assigned_to": "Pablo"
+    },
+    {
+        "id": "c8556c72-dce4-4f02-8846-2574a5a8fb29",
+        "title": "Mi Primera Tarea",
+        "description": "Descripción de la tarea",
+        "priority": "alta",
+        "effort_hours": 3.5,
+        "status": "pendiente",
+        "assigned_to": "Juan"
+    }
+]
