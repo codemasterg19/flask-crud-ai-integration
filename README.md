@@ -2,6 +2,10 @@
 
 API REST con Flask para gestión de tareas con integración de Azure OpenAI.
 
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/codemasterg19/flask-crud-ai-integration)
+
+**🔗 Repositorio:** https://github.com/codemasterg19/flask-crud-ai-integration
+
 ## 📋 Descripción
 
 Sistema de gestión de tareas que combina un CRUD completo con capacidades de Inteligencia Artificial usando Azure OpenAI. El proyecto mantiene la funcionalidad del Entregable 1 (CRUD básico) y añade 4 nuevos endpoints que utilizan IA para:
